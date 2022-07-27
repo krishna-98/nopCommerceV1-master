@@ -256,3 +256,24 @@
 2018-12-17 12:16:04,515 [main] INFO ecommerce - clicking on save
 2018-12-17 12:16:06,154 [main] INFO ecommerce - validation started....
 2018-12-17 12:16:06,345 [main] INFO ecommerce - test case passed....
+2022-07-27 20:32:16,893 [main] INFO ecommerce - User name is provided
+2022-07-27 20:32:17,051 [main] INFO ecommerce - password is provided
+2022-07-27 20:37:49,786 [main] INFO ecommerce - User name is provided
+2022-07-27 20:37:49,909 [main] INFO ecommerce - password is provided
+2022-07-27 20:38:51,380 [main] INFO ecommerce - User name is provided
+2022-07-27 20:38:51,387 [main] INFO ecommerce - password is provided
+2022-07-27 20:42:11,765 [main] INFO ecommerce - User name is provided
+2022-07-27 20:42:11,774 [main] INFO ecommerce - password is provided
+2022-07-27 20:42:15,739 [main] INFO ecommerce - providing customer details....
+2022-07-27 20:53:28,358 [main] INFO ecommerce - User name is provided
+2022-07-27 20:53:28,369 [main] INFO ecommerce - password is provided
+2022-07-27 20:53:32,508 [main] INFO ecommerce - providing customer details....
+2022-07-27 20:55:05,508 [main] INFO ecommerce - User name is provided
+2022-07-27 20:55:05,518 [main] INFO ecommerce - password is provided
+2022-07-27 20:55:09,287 [main] INFO ecommerce - providing customer details....
+2022-07-27 20:55:48,530 [main] INFO ecommerce - User name is provided
+2022-07-27 20:55:48,539 [main] INFO ecommerce - password is provided
+2022-07-27 20:55:52,224 [main] INFO ecommerce - providing customer details....
+2022-07-27 21:01:10,879 [main] INFO ecommerce - User name is provided
+2022-07-27 21:01:10,887 [main] INFO ecommerce - password is provided
+2022-07-27 21:01:15,352 [main] INFO ecommerce - providing customer details....

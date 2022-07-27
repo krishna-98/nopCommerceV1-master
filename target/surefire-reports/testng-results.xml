@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-12-17T06:45:14Z" name="nopcommerceV1" finished-at="2018-12-17T06:46:06Z" duration-ms="52186">
+  <suite name="nopcommerceV1" duration-ms="12844" started-at="2022-07-27T15:31:03Z" finished-at="2022-07-27T15:31:16Z">
     <groups>
     </groups>
-    <test started-at="2018-12-17T06:45:14Z" name="nopcommerceTest1" finished-at="2018-12-17T06:46:06Z" duration-ms="52186">
+    <test name="nopcommerceTest1" duration-ms="12844" started-at="2022-07-27T15:31:03Z" finished-at="2022-07-27T15:31:16Z">
       <class name="com.nopcommerce.testCases.TC_AddCustomerTest_003">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.nopcommerce.testCases.TC_AddCustomerTest_003@74fe5c40]" started-at="2018-12-17T06:45:15Z" name="setup" finished-at="2018-12-17T06:45:18Z" duration-ms="3554" status="PASS">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.nopcommerce.testCases.TC_AddCustomerTest_003@59a6e353]" name="setup" is-config="true" duration-ms="3727" started-at="2022-07-27T15:31:03Z" finished-at="2022-07-27T15:31:07Z">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="addNewCustomer()[pri:0, instance:com.nopcommerce.testCases.TC_AddCustomerTest_003@74fe5c40]" started-at="2018-12-17T06:45:18Z" name="addNewCustomer" finished-at="2018-12-17T06:46:06Z" duration-ms="47750" status="PASS">
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.nopcommerce.testCases.TC_AddCustomerTest_003@59a6e353]" name="addNewCustomer" duration-ms="7932" started-at="2022-07-27T15:31:07Z" finished-at="2022-07-27T15:31:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addNewCustomer -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nopcommerce.testCases.TC_AddCustomerTest_003@74fe5c40]" started-at="2018-12-17T06:46:06Z" name="tearDown" finished-at="2018-12-17T06:46:06Z" duration-ms="599" status="PASS">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.testCases.TC_AddCustomerTest_003@59a6e353]" name="tearDown" is-config="true" duration-ms="720" started-at="2022-07-27T15:31:15Z" finished-at="2022-07-27T15:31:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
